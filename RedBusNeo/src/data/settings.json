@@ -1,0 +1,10 @@
+{
+  "theme": "light",
+  "currency": "INR",
+  "compact": false,
+  "email": true,
+  "sms": false,
+  "priceAlerts": true,
+  "preferredSeat": "Window",
+  "defaultFilter": "None"
+}
